@@ -1,0 +1,10 @@
+{
+  "name": "solhint-plugin-example",
+  "version": "0.0.1",
+  "description": "Example of how to write a plugin for solhint",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["solhint", "ethereum"],
+  "author": "Franco Victorio <victorio.franco@gmail.com>",
+  "license": "MIT"
+}
